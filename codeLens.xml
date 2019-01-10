@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeLensSettings">
+    <enabled>
+      <map>
+        <entry key="Exposing API" value="true" />
+      </map>
+    </enabled>
+  </component>
+</application>

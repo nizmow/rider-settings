@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="65-0-7-255,,,192-10-36-255,,,140-83-0-255,,,204-113-16-255,,,83-104-64-255,,,103-49-48-255,,,105-79-52-255,,,93-106-95-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.48683092" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="editorconfig" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="settings&#10;parameter&#10;vision&#10;trim&#10;editorconfig" />
+    <property name="TrendingPluginsSearchHistory" value="material&#10;theme" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/Sample-ShoppingWeb/src/Sample-ShoppingWeb.sln&#10;/home/neil/Work/Troy/Troy.sln&#10;/home/neil/Work/Olympos/Olympos.sln&#10;/home/neil/Downloads/dk-tomorrow-night.icls&#10;/home/neil/Downloads/dk-monokai.icls&#10;/home/neil/Work/Alexandria/Alexandria.sln" />
+    <property name="file.gist.reindex.count" value="32" />
+    <property name="fileTypeChangedCounter" value="12" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Code/Sample-ShoppingWeb/src" />
+    <property name="last_selected_template" value="Class Library|.NET Core" />
+    <property name="last_selected_template_parameters" value="Language=C#;Framework=netstandard2.0;" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="WHITESPACES_MODIFIED_LINES_COLOR" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
